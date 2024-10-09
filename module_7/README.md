@@ -5,6 +5,7 @@ Using our class format  - find a series of video lessons and watch and complete 
 # Video Lessons: 
 
 - [ ] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
+- [x] https://youtu.be/nkmHqs1I_z0?si=OpVU7IG7ZjI97GIo
 - [ ] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 # Assignment: 
