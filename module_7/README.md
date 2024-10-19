@@ -10,5 +10,5 @@ This week is "Choose Your Adventure" week where you go deeper on a topic of your
 
 # Assignment: 
 
-- [ ] Email this edited README with your video lesson links and your completed assignment to data@tech-moms.org
-- [ ] Celebrate! Learning how to learning is an important part of learning! 
+- [x] Email this edited README with your video lesson links and your completed assignment to data@tech-moms.org
+- [x] Celebrate! Learning how to learning is an important part of learning! 
